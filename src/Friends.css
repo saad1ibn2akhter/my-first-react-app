@@ -1,0 +1,10 @@
+.box{
+    padding: 16px; 
+    border: 2px solid gray;
+    margin: 16px;
+    border-radius: 8px;
+    color: orange;
+}
+.text{
+    color: gray;
+}
